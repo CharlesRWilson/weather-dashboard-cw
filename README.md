@@ -15,6 +15,6 @@ I had some help when creating this!
 
 I obviously used this api: https://home.openweathermap.org/
 
-As well as the zoom lectures and some help from ChatGPT
+As well as the zoom lectures and some help from AI to fill in the cracks haha!
 
 Heres my github: https://github.com/CharlesRWilson
